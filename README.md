@@ -31,5 +31,5 @@
 ## ETC...
 - <a href = https://linearode.tistory.com/> BLOG </a>	
 - <a href = https://github.com/tjvnd/> Github </a>
-- <a href = ilnotasna@gmail.com> email </a>
+- <a href="mailto:no1jga@naver.com."> E-mail </a>
 																																																	 
