@@ -7,8 +7,8 @@
 ## Who am I ? 
 
 - Graduated from Chungnam National University / Aerospace eng.
-- LET'S Make a PAV!
-- CNU SW Academy / STUDENT
+- LET'S Make a PAV & WEB!
+- CNU SW Academy / STUDENT (FrontEnd Course)
 
 ---
 
