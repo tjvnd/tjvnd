@@ -8,7 +8,7 @@
 
 - Graduated from Chungnam National University / Aerospace eng.
 - LET'S Make a PAV & WEB!
-- CNU SW Academy / STUDENT (FrontEnd Course)
+- CNU SW Academy / trainee (FrontEnd Course)
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 ## Activity
                                                           
-- <a href = http://swacademy.cnu.ac.kr> CNU SW Academy 1st student </a> __(2022.07 ~ 2022.12)__            
+- <a href = http://swacademy.cnu.ac.kr> CNU SW Academy 1st trainee </a> __(2022.07 ~ 2022.12)__            
 - <a href = http://koreapav.com/sub03/sub03_05.php#n> CNU 飛틀S PAV </a> __(~ 2020.11)__
 																																																	 
 																																																	 
